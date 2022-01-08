@@ -7,6 +7,7 @@ https://pypi.org/project/pyzbar/ <br>
 - Add the folder to which you downloaded the scripts into path
 - Type `ss2qr <path>` in command line, path being an optional argument, if you want to read the code from a file
 - Note that the script is very simple, thus use images/screenshots purely of the QR code
+- It also requires you to have python in path, in case you have `python3` in path, edit it on the last line of `ss2qr.bat`
 ## Demo:
 
 

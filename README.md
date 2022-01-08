@@ -4,9 +4,9 @@
 https://pillow.readthedocs.io/en/stable/installation.html <br>
 https://pypi.org/project/pyzbar/ <br>
 ## Usage:
-> Add the folder to which you downloaded the scripts into path
-> Type `ss2qr <path>` in command line, path being an optional argument, if you want to read the code from a file
-> Note that the script is very simple, thus use images/screenshots purely of the QR code
+- Add the folder to which you downloaded the scripts into path
+- Type `ss2qr <path>` in command line, path being an optional argument, if you want to read the code from a file
+- Note that the script is very simple, thus use images/screenshots purely of the QR code
 ## Demo:
 
 

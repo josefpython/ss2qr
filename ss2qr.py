@@ -1,6 +1,5 @@
-from PIL.Image import Image
+from PIL import Image, ImageGrab
 from pyzbar import pyzbar
-from PIL import ImageGrab, Image
 import sys
 
 def main(args):

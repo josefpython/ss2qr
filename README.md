@@ -1,6 +1,6 @@
 # ss2qr
-### read a QR code from clipboard
-**Requires pyzbar and PIL**<br>
+### read a QR code from clipboard using python
+**Requires pyzbar and PIL (and python 3)**<br>
 https://pillow.readthedocs.io/en/stable/installation.html <br>
 https://pypi.org/project/pyzbar/ <br>
 ## Usage:
